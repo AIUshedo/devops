@@ -1,0 +1,1 @@
+{"virtualbox":{"/environment/db":{"guestpath":"/environment/db","hostpath":"C:/Users/Tech-W148/Documents/ENGINEERING-22/week-8/provisioning-lab-starter-code/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Tech-W148/Documents/ENGINEERING-22/week-8/provisioning-lab-starter-code","disabled":false,"__vagrantfile":true}}}
